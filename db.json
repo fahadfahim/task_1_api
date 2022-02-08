@@ -1,0 +1,54 @@
+{
+    "datas": [
+        {
+            "id": 1,
+            "heading": "Top Author",
+            "sub_heading": "Successful Fellas",
+            "img": "https://i.ibb.co/940hD8j/pinterest.png",
+            "percentage": 70,
+            "users": 4600,
+            "language_1": "Angular",
+            "language_2": "PHP"
+        },
+        {
+            "id": 2,
+            "heading": "Popular Authors",
+            "sub_heading": "Most Successful",
+            "img": "https://i.ibb.co/5xwR5pR/telegram.png",
+            "percentage": 50,
+            "users": 7200,
+            "language_1": "HTML",
+            "language_2": "CSS"
+        },
+        {
+            "id": 3,
+            "heading": "New Users",
+            "sub_heading": "Awesome Users",
+            "img": "https://i.ibb.co/T0g6W5c/vimeo.png",
+            "percentage": 80,
+            "users": 890,
+            "language_1": "React",
+            "language_2": "SASS"
+        },
+        {
+            "id": 4,
+            "heading": "Active Customers",
+            "sub_heading": "Best Customers",
+            "img": "https://i.ibb.co/bzZ54MB/b.png",
+            "percentage": 90,
+            "users": 6370,
+            "language_1": "Java",
+            "language_2": "PHP"
+        },
+        {
+            "id": 5,
+            "heading": "Best Seller Theme",
+            "sub_heading": "Amazing Template",
+            "img": "https://i.ibb.co/SNRCQQk/k.png",
+            "percentage": 70,
+            "users": 354,
+            "language_1": "Python",
+            "language_2": "MySQL"
+        }
+    ]
+}
